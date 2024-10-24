@@ -8,5 +8,6 @@ O portfólio também serve para que você possa entrar em contato comigo atravé
 
 Aqui está uma prévia do portfólio:
 
-![Portfolio Simples](![Captura de tela 2024-10-24 171941](https://github.com/user-attachments/assets/8744ad9e-105a-4026-b78c-30e472c0f153)
+(![Captura de tela 2024-10-24 171941](![Captura de tela 2024-10-24 172426](https://github.com/user-attachments/assets/6a263903-ab0a-4bfa-8ade-b4ed8cce7461)
+)
 )
